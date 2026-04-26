@@ -71,6 +71,7 @@ Comment system
 Search & filtering
 Rich text editor (CKEditor)
 Deployment (AWS / Render / Vercel backend)
+
 📜 License
 
 This project is for learning and demonstration purposes.
